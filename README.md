@@ -32,3 +32,5 @@ Proyecto basado en una simulación de arquitectura de datos y sistema de recompe
 
 ## GitHub Pages
 Este repositorio también incluye una página web tipo portafolio desarrollada con HTML y CSS para visualizar los proyectos y actividades realizadas durante el curso.
+
+Para poder visualizar la página web se debe descargar los archivos de index.html y el styles.css para poder ver los estilos y diseños de la página.
